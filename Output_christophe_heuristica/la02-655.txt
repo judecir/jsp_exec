@@ -1,0 +1,59 @@
+{"GRASPSolution":
+{"version": "1.0", "header": {"problemName": "./INSTANCES/la02.txt", "objectiveValue": "655", "total time": "0.365", "time sol": "0.365", "solved_by": "GRASP_ELS"}
+,{"bierwirth vector":[
+"4","1","0","7","8","1","6","2","6","4","2","1","1","0","9","4","9","0","4","6"
+,"9","7","3","2","5","0","7","2","3","8","5","1","6","9","4","2","8","3","8","6"
+,"0","5","3","7","7","8","5","9","3","5"]}
+,{"variable":[
+{"name":"x_0_4", "value":"0"}
+,{"name":"x_3_1", "value":"20"}
+,{"name":"x_1_0", "value":"165"}
+,{"name":"x_4_7", "value":"196"}
+,{"name":"x_2_8", "value":"563"}
+,{"name":"x_4_1", "value":"27"}
+,{"name":"x_2_6", "value":"52"}
+,{"name":"x_0_2", "value":"84"}
+,{"name":"x_1_6", "value":"147"}
+,{"name":"x_3_4", "value":"174"}
+,{"name":"x_1_2", "value":"63"}
+,{"name":"x_2_1", "value":"135"}
+,{"name":"x_4_1", "value":"166"}
+,{"name":"x_0_0", "value":"202"}
+,{"name":"x_3_9", "value":"334"}
+,{"name":"x_2_4", "value":"201"}
+,{"name":"x_1_9", "value":"300"}
+,{"name":"x_4_0", "value":"376"}
+,{"name":"x_0_4", "value":"513"}
+,{"name":"x_3_6", "value":"565"}
+,{"name":"x_4_9", "value":"0"}
+,{"name":"x_0_7", "value":"27"}
+,{"name":"x_3_3", "value":"107"}
+,{"name":"x_2_2", "value":"184"}
+,{"name":"x_1_5", "value":"376"}
+,{"name":"x_1_0", "value":"233"}
+,{"name":"x_0_7", "value":"335"}
+,{"name":"x_4_2", "value":"473"}
+,{"name":"x_3_3", "value":"538"}
+,{"name":"x_2_8", "value":"580"}
+,{"name":"x_4_5", "value":"66"}
+,{"name":"x_1_1", "value":"135"}
+,{"name":"x_3_6", "value":"155"}
+,{"name":"x_0_9", "value":"433"}
+,{"name":"x_2_4", "value":"513"}
+,{"name":"x_1_2", "value":"0"}
+,{"name":"x_0_8", "value":"108"}
+,{"name":"x_2_3", "value":"287"}
+,{"name":"x_3_8", "value":"433"}
+,{"name":"x_4_6", "value":"521"}
+,{"name":"x_4_0", "value":"52"}
+,{"name":"x_0_5", "value":"260"}
+,{"name":"x_2_3", "value":"385"}
+,{"name":"x_1_7", "value":"435"}
+,{"name":"x_3_7", "value":"483"}
+,{"name":"x_4_8", "value":"94"}
+,{"name":"x_2_5", "value":"166"}
+,{"name":"x_1_9", "value":"196"}
+,{"name":"x_3_3", "value":"255"}
+,{"name":"x_0_5", "value":"558"}
+]}
+}

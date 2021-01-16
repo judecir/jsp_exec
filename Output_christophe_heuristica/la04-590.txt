@@ -1,0 +1,59 @@
+{"GRASPSolution":
+{"version": "1.0", "header": {"problemName": "./INSTANCES/la04.txt", "objectiveValue": "590", "total time": "0.065", "time sol": "0.065", "solved_by": "GRASP_ELS"}
+,{"bierwirth vector":[
+"8","4","2","0","4","3","2","4","8","9","7","5","5","6","2","7","4","8","2","1"
+,"1","8","3","9","7","9","3","0","5","1","9","6","2","8","3","7","4","0","5","0"
+,"9","3","5","1","6","7","1","6","6","0"]}
+,{"variable":[
+{"name":"x_0_8", "value":"0"}
+,{"name":"x_2_4", "value":"304"}
+,{"name":"x_3_2", "value":"398"}
+,{"name":"x_4_0", "value":"490"}
+,{"name":"x_1_4", "value":"581"}
+,{"name":"x_1_3", "value":"147"}
+,{"name":"x_3_2", "value":"216"}
+,{"name":"x_4_4", "value":"236"}
+,{"name":"x_2_8", "value":"452"}
+,{"name":"x_0_9", "value":"502"}
+,{"name":"x_1_7", "value":"45"}
+,{"name":"x_0_5", "value":"59"}
+,{"name":"x_3_5", "value":"134"}
+,{"name":"x_4_6", "value":"149"}
+,{"name":"x_2_2", "value":"398"}
+,{"name":"x_2_7", "value":"61"}
+,{"name":"x_4_4", "value":"165"}
+,{"name":"x_0_8", "value":"279"}
+,{"name":"x_3_2", "value":"385"}
+,{"name":"x_1_1", "value":"398"}
+,{"name":"x_1_1", "value":"0"}
+,{"name":"x_3_8", "value":"45"}
+,{"name":"x_4_3", "value":"51"}
+,{"name":"x_0_9", "value":"140"}
+,{"name":"x_2_7", "value":"418"}
+,{"name":"x_3_9", "value":"51"}
+,{"name":"x_2_3", "value":"210"}
+,{"name":"x_0_0", "value":"286"}
+,{"name":"x_4_5", "value":"400"}
+,{"name":"x_1_1", "value":"488"}
+,{"name":"x_2_9", "value":"230"}
+,{"name":"x_1_6", "value":"310"}
+,{"name":"x_0_2", "value":"450"}
+,{"name":"x_3_8", "value":"502"}
+,{"name":"x_4_3", "value":"581"}
+,{"name":"x_1_7", "value":"59"}
+,{"name":"x_3_4", "value":"147"}
+,{"name":"x_0_0", "value":"217"}
+,{"name":"x_4_5", "value":"302"}
+,{"name":"x_2_0", "value":"473"}
+,{"name":"x_2_9", "value":"0"}
+,{"name":"x_4_3", "value":"140"}
+,{"name":"x_0_5", "value":"155"}
+,{"name":"x_1_1", "value":"217"}
+,{"name":"x_3_6", "value":"295"}
+,{"name":"x_2_7", "value":"156"}
+,{"name":"x_4_1", "value":"231"}
+,{"name":"x_3_6", "value":"236"}
+,{"name":"x_1_6", "value":"295"}
+,{"name":"x_0_0", "value":"362"}
+]}
+}

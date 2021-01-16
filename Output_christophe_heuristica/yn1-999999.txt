@@ -1,0 +1,7 @@
+{"GRASPSolution":
+{"version": "1.0", "header": {"problemName": "./INSTANCES/yn1.txt", "objectiveValue": "999999", "total time": "0", "time sol": "0", "solved_by": "GRASP_ELS"}
+,{"bierwirth vector":[
+]}
+,{"variable":[
+]}
+}
