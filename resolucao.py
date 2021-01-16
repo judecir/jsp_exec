@@ -477,6 +477,6 @@ def execucao_oficial():
     df = execucao_modelos(lista_instancias
                           ,lista_modelos
                           ,prefixo_arq="t_sol"
-                          ,tempo_max=60#3600*2
+                          ,tempo_max=3600*2
                           ,fl_primeira_sol=False)
     return df
